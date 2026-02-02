@@ -3,7 +3,7 @@ import subprocess
 
 
 # Proyecto Adaptado con Navegación Profunda
-# Estudiante: [TU NOMBRE]
+# Estudiante: Santiago Vaca
 
 def mostrar_codigo(ruta_script):
     ruta_script_absoluta = os.path.abspath(ruta_script)
